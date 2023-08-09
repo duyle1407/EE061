@@ -1,5 +1,5 @@
 ---
-morea_id: reading-syllabus
+morea_id: reading-syllabus-new
 morea_type: reading
 title: "EE 061 Syllabus"
 published: True
