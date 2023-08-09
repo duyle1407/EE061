@@ -26,4 +26,11 @@ By the time and date indicated on the Schedule page, you must have:
   * Joined the ICS 314 Discord server
   * Performed all setup actions specified in the Welcome category channels.
 
+```
+# hello 
+print('hello') #code
+```
+
+Did That work?
+
 
