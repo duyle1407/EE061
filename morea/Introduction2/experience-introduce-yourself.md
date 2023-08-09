@@ -1,7 +1,7 @@
 ---
 title: "E02: Introduce yourself"
 published: true
-morea_id: experience-introduce-yourself
+morea_id: experience-introduce-yourself-3
 morea_type: experience
 morea_summary: "Get started with the ICS 314 Discord server"
 morea_sort_order: 3
