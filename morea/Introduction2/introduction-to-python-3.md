@@ -33,18 +33,12 @@ print('hello') #code
 
 Did That work?
 
-<div class="{% cycle 'section-background-1', 'section-background-2' %}">
-  <div class="container">
-    <h2><small>Module:</small> <a href="{{ site.baseurl }}{{ module.module_page.url }}">{{ module.title }}</a></h2>
-    {% if module.morea_experiences.size == 0 %}
-    <p>No experiences for this module.</p>
-    {% endif %}
+~~~Python
+# importing library
+import random
 
-    <div class="row">
-    {% for page_id in module.morea_experiences %}
-      {% assign experience = site.morea_page_table[page_id] %}
-      {% include entity-card.html url=experience.morea_url title=experience.title summary=experience.morea_summary labels=experience.morea_labels %}
-    {% endfor %}
-    </div>
-  </div>
-</div>
+x=random.randint(1,10) #generate a random number from 1 to 10
+
+#print to the screen
+print(f'my random number is {x}')
+~~~
