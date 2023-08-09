@@ -33,6 +33,7 @@ print('hello') #code
 
 Did That work?
 
+<div class="alert alert-secondary" role="alert" markdown="1">
 ~~~Python
 # importing library
 import random
@@ -42,3 +43,4 @@ x=random.randint(1,10) #generate a random number from 1 to 10
 #print to the screen
 print(f'my random number is {x}')
 ~~~
+</div>
