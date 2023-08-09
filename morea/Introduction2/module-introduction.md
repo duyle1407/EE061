@@ -7,8 +7,9 @@ morea_outcomes:
   - outcome-course-structure
 morea_readings:
   - reading-syllabus
-morea_experiences:
   - experience-introduce-yourself-10
+morea_experiences:
+  - experience-introduce-yourself-3
 morea_assessments:
 morea_type: module
 morea_icon_url: /morea/introduction/introduction.jpg
