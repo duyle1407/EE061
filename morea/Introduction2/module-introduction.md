@@ -9,7 +9,6 @@ morea_readings:
   - reading-syllabus
   - experience-introduce-yourself-10
 morea_experiences:
-  - experience-introduce-yourself-3
 morea_assessments:
 morea_type: module
 morea_icon_url: /morea/introduction/introduction.jpg
